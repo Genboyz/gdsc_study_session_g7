@@ -1,4 +1,4 @@
-# ebookwithdetail
+# Ebook with detail
 
 A new Flutter project.
 
