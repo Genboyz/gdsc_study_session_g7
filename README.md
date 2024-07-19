@@ -1,1 +1,2 @@
-# gdsc_study_session_g7
+# gdsc_study_session_
+Flutter tasks
